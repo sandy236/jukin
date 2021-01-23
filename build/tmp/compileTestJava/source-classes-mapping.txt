@@ -1,0 +1,2 @@
+com/covid/tracker/CovidTrackerApplicationTests.java
+ com.covid.tracker.CovidTrackerApplicationTests
